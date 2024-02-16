@@ -1,0 +1,13 @@
+*{margin: 0;
+padding: 0;}
+.banner{background-image: url('../Images/Banner Image.png');
+background-size:cover;
+background-position: center;
+width: 600px;
+height:300px;
+margin:auto;}
+
+.banner-text{color:white;
+padding:50px 100px;
+text-align: center;
+}
