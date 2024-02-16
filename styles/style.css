@@ -23,3 +23,14 @@ margin-top: 15px;}
     display: block;
     margin: 0 auto; 
 }
+.welcome{background-image: url('../Images/Vectorrr.png');
+    background-size:cover;
+    background-position: center;
+    width: 600px;
+    height:300px;
+    margin:auto;}
+    .party{color:white;
+    padding: 50 50px;
+margin-top:20px;}
+    .btn-primary{color:white;
+    background-color: black;}
