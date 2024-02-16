@@ -11,3 +11,15 @@ margin:auto;}
 padding:50px 100px;
 text-align: center;
 }
+.main-head{color:#FF0000;
+text-align: center;
+margin-top: 20px;}
+.deals{color:#FF0000;
+text-align: center;
+margin-top: 15px;}
+.categories{text-align: center;
+margin-top: 15px;}
+.center-image {
+    display: block;
+    margin: 0 auto; 
+}
