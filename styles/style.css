@@ -121,8 +121,10 @@ background-color:#070211 ;
 margin-left:auto;
 margin-right: auto;}
 #big{color:white;}
-
-
+.img{display: flex;}
+.img-2{display: flex;}
+.phone{display: flex;
+flex-direction: column;}
 
 
 
