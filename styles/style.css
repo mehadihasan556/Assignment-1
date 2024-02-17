@@ -126,6 +126,12 @@ margin-right: auto;}
 .phone{display: flex;
 flex-direction: column;}
 
+.facebook{display: flex;
+justify-content: center;
+gap:10px;}
+.all{color:white;}
+.copyright{display: flex;
+justify-content: space-between;}
 
 
 
