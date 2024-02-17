@@ -108,8 +108,6 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 100vh;
-        /* Adjust as needed */
         margin-left: auto;
         margin-right: auto;
         margin-top: 20px;
@@ -117,13 +115,13 @@
 
     .subscribe {
         text-align: center;
-        /* Optional: to center the content inside the div */
+
     }
 
-    .center-image {
-        display: block;
-        margin: 0 auto;
-       
+    .btn-secondary {
+        background-color: #FF0000;
+        color: white;
+        border-radius: 15px;
     }
 
     .address {
@@ -137,6 +135,7 @@
         background-color: #070211;
         margin-left: auto;
         margin-right: auto;
+        margin-top: 20px;
     }
 
     #big {
@@ -170,23 +169,27 @@
         display: flex;
         justify-content: space-between;
     }
-.place{width:600px;
-height:100px;
-background-color: #f3dede;
-margin-left:auto;
-margin-right: auto;
-margin-top: 20px;}
 
-.hotel{display: block;
-padding-left: 200px;
-padding-top: 20px;
-}
+    .place {
+        width: 600px;
+        height: 100px;
+        background-color: #f3dede;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+    }
 
+    .hotel {
+        display: block;
+        padding-left: 200px;
+        padding-top: 20px;
+    }
 
+    .location {
+        color: #FF0000;
+    }
 
-
-
-
-    .location{color:#FF0000;}
-    .join{background-color: #FF0000;
-    color:white;}
+    .join {
+        background-color: #FF0000;
+        color: white;
+    }
