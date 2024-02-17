@@ -1,115 +1,147 @@
-* {
-    margin: 0;
-    padding: 0;
-}
+    * {
+        margin: 0;
+        padding: 0;
+    }
 
-.banner {
-    background-image: url('../Images/Banner Image.png');
-    background-size: cover;
-    background-position: center;
-    width: 600px;
-    height: 300px;
-    margin: auto;
-}
+    .banner {
+        background-image: url('../Images/Banner Image.png');
+        background-size: cover;
+        background-position: center;
+        width: 600px;
+        height: 300px;
+        margin: auto;
+    }
 
-.banner-text {
-    color: white;
-    padding: 50px 100px;
-    text-align: center;
-}
+    .banner-text {
+        color: white;
+        padding: 50px 100px;
+        text-align: center;
+    }
 
-.main-head {
-    color: #FF0000;
-    text-align: center;
-    margin-top: 20px;
-}
+    .main-head {
+        color: #FF0000;
+        text-align: center;
+        margin-top: 20px;
+    }
 
-.deals {
-    color: #FF0000;
-    text-align: center;
-    margin-top: 15px;
-}
+    .deals {
+        color: #FF0000;
+        text-align: center;
+        margin-top: 15px;
+    }
 
-.categories {
-    text-align: center;
-    margin-top: 15px;
-}
+    .categories {
+        text-align: center;
+        margin-top: 15px;
+    }
 
-.center-image {
-    display: block;
-    margin: 0 auto;
-}
+    .center-image {
+        display: block;
+        margin: 0 auto;
+    }
 
-.welcome {
-    background-image: url('../Images/Vectorrr.png');
-    background-size: cover;
-    background-position: center;
-    width: 600px;
-    height: 300px;
-    margin: auto;
-    text-align: center;
-    margin-top: 20px;
+    .welcome {
+        background-image: url('../Images/Vectorrr.png');
+        background-size: cover;
+        background-position: center;
+        width: 600px;
+        height: 300px;
+        margin: auto;
+        text-align: center;
+        margin-top: 20px;
 
-}
+    }
 
-.holidays {
-    color: #FF0000;
-}
+    .holidays {
+        color: #FF0000;
+    }
 
-.sale {
-    text-align: center;
-    margin-top: 15px;
-}
+    .sale {
+        text-align: center;
+        margin-top: 15px;
+    }
 
 
-#party {
-    color: white;
-    padding-left: 20px;
-    margin-bottom: 10px;
-}
+    #party {
+        color: white;
+        padding-left: 20px;
+        margin-bottom: 10px;
+    }
 
-#dolor {
-    color: cornsilk;
-    padding-left: 20px;
-    margin-bottom: 10px;
-}
+    #dolor {
+        color: cornsilk;
+        padding-left: 20px;
+        margin-bottom: 10px;
+    }
 
-.btn-primary {
-    color: white;
-    background-color: black;
-}
+    .btn-primary {
+        color: white;
+        background-color: black;
+    }
 
-.bags {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-}
+    .bags {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
 
-.shoes {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-}
-#gifts{text-align: left;
-color:#FF0000;
-margin-top: 20px;}
-#Portfolio{text-align: left;}
+    .shoes {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    #gifts{text-align: left;
+    color:#FF0000;
+    margin-top: 20px;}
+    #Portfolio{text-align: left;}
 
-.newsletter {width:600px;
-    height:200px;
-    background-color: #f4e2e2;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Adjust as needed */
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-  }
-  .subscribe {
-    text-align: center; /* Optional: to center the content inside the div */
-  }
-  .center-image {
-    display: block;
-    margin: 0 auto; /* Center the image horizontally */
-  }
+    .newsletter {width:600px;
+        height:200px;
+        background-color: #f4e2e2;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Adjust as needed */
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+    }
+    .subscribe {
+        text-align: center; /* Optional: to center the content inside the div */
+    }
+    .center-image {
+        display: block;
+        margin: 0 auto; /* Center the image horizontally */
+    }
+    .address{display: flex;
+    justify-content:space-between ;}
+.contact{width:600px;
+height: 150px;
+background-color:#070211 ;
+margin-left:auto;
+margin-right: auto;}
+#big{color:white;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
